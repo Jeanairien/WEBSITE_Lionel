@@ -28,12 +28,12 @@ class MentionsLegalesPage extends StatelessWidget {
                 "XXXX Rue de l'Adresse, Numéro\nXXXX Code Postal, Ville\nBelgique"), // Utilise \n pour les retours à la ligne
             _buildLegalInfoSection(
               "Coordonnées de contact",
-              "E-mail : info@XXXX-XXXX.be\nTéléphone : +32 (0) XXX XX XX XX", // Téléphone obligatoire
+              "E-mail : info@XXXX-XXXX.be\nTéléphone : +32 (0) 496 39 83 27", // Téléphone obligatoire
               // Optionnel : "Formulaire de contact : [Lien vers le formulaire si applicable]"
             ),
             _buildLegalInfoSection("Numéro d’entreprise (BCE)", "XXXX.XXX.XXX"),
             _buildLegalInfoSection(
-                "Numéro de TVA", "BE 0XXX.XXX.XXX (si applicable)"),
+                "Numéro de TVA", "BE 1009.335.082 (si applicable)"),
 
             // --- Sections Optionnelles (ajoute si nécessaire) ---
             const SizedBox(height: 15),
