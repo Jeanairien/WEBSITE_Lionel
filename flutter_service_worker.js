@@ -3,11 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "eae4a59f277012271a208617e6cc078b",
-"assets/AssetManifest.bin.json": "417b51f1fbbce183cca37b4650740e6e",
-"assets/AssetManifest.json": "7e47f0f4c62047c3bdba077ff1d41e5f",
+const RESOURCES = {"assets/AssetManifest.bin": "9aeaef8255e91a4e51302d716f1f72fa",
+"assets/AssetManifest.bin.json": "bd795a28f2492c914e379db723752cfe",
+"assets/AssetManifest.json": "d98b8fcca75fa501d3413937bb7de630",
 "assets/assets/images/atelier_grand_plan2.jpg": "dbff373ae734124a1f369bc1e63b0ef1",
-"assets/assets/images/Logo_lionel.jpg": "e961273418831b6baa7f2249b011e144",
+"assets/assets/images/Logo_lionel.JPG": "e961273418831b6baa7f2249b011e144",
 "assets/assets/images/Logo_lionel_hasbeen.JPG": "1339ffcc4b514bbb08424b188bf0ce3b",
 "assets/assets/images/machine_pneu.jpg": "ed6f364438540099bcc9b0f39abc233b",
 "assets/assets/images/moteur_out.jpg": "d93a63c84ba07287030406c6de2b134c",
@@ -33,7 +33,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "eae4a59f277012271a208617e6cc078b
 "canvaskit/skwasm.worker.js": "89990e8c92bcb123999aa81f7e203b1c",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "flutter.js": "4b2350e14c6650ba82871f60906437ea",
-"flutter_bootstrap.js": "c2734882c2d689fde64c17bddbd0392b",
+"flutter_bootstrap.js": "e7c528b03d321b021c8a374f8d40001d",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
@@ -44,7 +44,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "eae4a59f277012271a208617e6cc078b
 "/": "2aa6f5003f92cbe3ebaf91ddcf5182c0",
 "logo192.png": "4b38b2e6c2b226045b6ada73231a061b",
 "logo512.png": "059c0dda0752c4634c51bc9c964ed158",
-"main.dart.js": "0d97c20d6e7c1a495f3a3479d48ccc8b",
+"main.dart.js": "4af5ca82f5d47845b53896811d27c164",
 "manifest.json": "fe10dda82034ad57281f94f216ecd61e",
 "version.json": "fa39fb9e1fdde969c21e53c12d9a32a5"};
 // The application shell files that are downloaded before a service worker can
